@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configuration>
+    <i3d rootNodePath="0>0|2" x="0" y="-.0" z="-.1">
+        <terraformNodes x="0" y="-.0" z="-.1">
+            <node x="-1.2" y="-.5" z="2.2" />
+            <node x="-0.6" y="-.5" z="2.2" />
+            <node x="0.6" y="-.5" z="2.2" />
+            <node x="-0.0" y="-.5" z="2.2" />
+            <node x="1.2.9" y="-.5" z="2.2" />
+            <node x="1.9" y="-.5" z="2.2" />
+            <node x="-1.9" y="-.5" z="2.2" />
+        </terraformNodes>
+        <collisionNodes x="0" y="-0.12" z="0">
+            <node x="-1.9" y="-.6" z="2.25" />
+            <node x="-.6" y="-.6" z="2.25" />
+            <node x="-.0" y="-.6" z="2.25" />
+            <node x=".6" y="-.6" z="2.25" /> 
+            <node x="1.9" y="-.6" z="2.25" />
+            <node x="-1.2" y="-.6" z="2.25" />
+            <node x="-1.2" y="-.6" z="2.25" />
+
+        </collisionNodes>
+        <paintNodes>
+            <node />
+        </paintNodes>
+    </i3d>
+    <settings>
+        <availableModes>
+            <mode>LOWER</mode>
+            <mode>FLATTEN</mode>
+            <mode>SMOOTH</mode>
+        </availableModes>
+        <availableDischargeModes>
+            <mode>NORMAL</mode>
+            <mode>RAISE</mode>
+            <mode>FLATTEN</mode>
+            <mode>SMOOTH</mode>
+            <mode>PAINT</mode>
+        </availableDischargeModes>
+    </settings>
+</configuration>
